@@ -1,0 +1,1 @@
+T‰m‰ on Nina Niskasen koodin‰yte. Kyseess‰ on Spring 3 MVC-mallin mukaisesti toteutettu DVD katalogi, joka hakee elokuvien tiedot CSV-tiedostosta ja esitt‰‰ ne dynaamisesti JSP-sivulla. Controllerin testiss‰ on k‰ytetty Mockitoa varmistamaan, ett‰ vain kyseist‰ komponettia pystyt‰‰n testaamaan.
